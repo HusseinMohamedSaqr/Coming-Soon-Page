@@ -1,0 +1,176 @@
+body
+{
+	background:#141414
+}
+
+div.logolg
+{
+	margin-top: 20px;
+	margin-left: 29%;
+}
+.logomd
+{
+	margin-top: 20px;	
+	margin-left: 25%
+}
+.logosm
+{
+	margin-top: 20px;	
+	margin-left: 24%
+}
+.logoxs
+{
+	margin-top: 20px;
+	margin-left: 15%
+}
+/************** LG SCREEN ***********************/
+div.comingsoonlg
+{
+	
+	margin-top: 50px;
+	background-color: #333;
+	color: #fff;
+	height: 300px;
+	width: 480px;
+	margin-left: 27%
+
+}
+
+div.comingsoonlg>.coming
+{
+	margin-top: 20px;
+}
+div.coming>h1
+{
+	font-size: 45px;
+	font-weight: bold;
+	color: #fec214
+}
+div.comingsoonlg>.coming>meter
+{
+	width: 82%
+}
+
+div.comingsoonlg>.g-inq
+{
+ 	margin-top: 20%;
+}
+div.comingsoonlg>.g-inq>h4
+{
+	color: #fec214
+}
+div.comingsoonlg>.g-inq>h4>a
+{
+	font-style: italic;
+}
+
+/******************* MD SCREEN *************************/
+
+div.comingsoonmd
+{	margin-top: 50px;
+	background-color: #333;
+	color: #fff;
+	height: 300px;
+	width: 480px;
+	margin-left: 23%
+}
+div.comingsoonmd>.coming
+{
+	margin-top: 20px;
+}
+div.coming>h1
+{
+	font-size: 45px;
+	font-weight: bold;
+	color: #fec214
+}
+div.comingsoonmd>.coming>meter
+{
+	width: 82%
+}
+
+div.comingsoonmd>.g-inq
+{
+ 	margin-top: 20%;
+}
+div.comingsoonmd>.g-inq>h4
+{
+	color: #fec214
+}
+div.comingsoonmd>.g-inq>h4>a
+{
+	font-style: italic;
+}
+/****************** SM SCREEN *********************/
+div.comingsoonsm
+{
+	margin-top: 50px;
+	background-color: #333;
+	color: #fff;
+	height: 300px;
+	width: 400px;
+	margin-left: 20%
+}
+
+div.comingsoonsm>.coming
+{
+	margin-top: 20px;
+}
+div.coming>h1
+{
+	font-size: 45px;
+	font-weight: bold;
+	color: #fec214
+}
+
+div.comingsoonsm>.coming>meter
+{
+	width: 100%
+}
+
+div.comingsoonsm>.g-inq
+{
+ 	margin-top: 20%;
+}
+div.comingsoonsm>.g-inq>h4
+{
+	color: #fec214
+}
+div.comingsoonsm>.g-inq>h4>a
+{
+	font-style: italic;
+}
+/******************* XS SCREEN ****************************/
+div.comingsoonxs
+{
+	margin-top: 50px;
+	background-color: #333;
+	color: #fff;
+	height: 230px;
+	width: 235px;
+	margin-left: 17%
+}
+div.comingsoonxs>.coming>meter
+{
+	width: 98%
+}
+
+
+
+div.comingsoonxs>.coming>h3
+{	
+	font-size: 25px;
+	font-weight: bold;
+	color: #fec214
+
+}
+
+div.comingsoonxs>.g-inq>h6
+  {
+  	color: #fec214
+  }
+
+div.comingsoonxs>.g-inq>h6>a
+{
+	font-style: italic;
+}
